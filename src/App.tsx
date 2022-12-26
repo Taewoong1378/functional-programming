@@ -1,5 +1,5 @@
+import { list } from './1. imperative-programming';
 import './App.css';
-import { list } from './lecture';
 
 function App() {
   return (
